@@ -1,4 +1,6 @@
 # LLaMA3_Cookbook 🦙✨
+![d](https://github.com/jh941213/LLaMA3_cookbook/assets/112835087/98debd51-2697-45b9-b349-175349f2a407)
+
 
 LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약하는 대규모 언어 모델입니다. 🌟 이 저장소📁는 LLaMA3를 활용하여 다양한 프로젝트🚀를 시작하는 데 필요한 정보를 제공하고자 합니다.
 
