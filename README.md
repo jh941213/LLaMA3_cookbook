@@ -16,7 +16,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 | AWS | bedrock 에서 LLaMA를 지원합니다 현재 llama2만 사용가능 |[AWS](https://aws.amazon.com/ko/bedrock/) |
 | Azure | Microsoft Azure 8B/70B 둘다 지원 Azrue Marketplace 검색 | [Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/metagenai.meta-llama-3-8b-chat-offer?tab=overview)|
 | together.ai | llama2, codellama, llama3 8b/70b inst 사용가능 |[together.ai](https://www.together.ai/) |
-
+|replicate| llama3 api 지원 (node.js, Python, HTTP) |[replicate](https://replicate.com/blog/run-llama-3-with-an-api) |
 
 ## 🤖 인퍼런스 (Inference)
 
@@ -37,7 +37,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 | HuggingChat | [link](https://huggingface.co/chat/) |
 | Groq | [link](https://groq.com/) |
 | togeter.ai |[link](https://www.together.ai/) |
-
+| replicate LLama chat(local) | [link](https://github.com/replicate/llama-chat)|
 
 ## LLaMA Framework(RAG)
 
