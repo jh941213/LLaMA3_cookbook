@@ -7,7 +7,6 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 - [Request acess](https://llama.meta.com/llama-downloads/)
 - [Meta Llama Model card](https://llama.meta.com/docs/model-cards-and-prompt-formats/meta-llama-3)
 - [Kaggle meta](https://www.kaggle.com/organizations/metaresearch/models)
-- 
 
 ## ⚡️ Cloud API 
 ### API 호출 가능
@@ -16,7 +15,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 | Grok | 고성능 AI Chip을 통해 LLaMA3를 인퍼런스 및 API 호출을 통해 이용할 수 있다 | [Grok](https://console.groq.com/playground) | 
 | AWS | bedrock 에서 LLaMA를 지원합니다 현재 llama2만 사용가능 |[AWS](https://aws.amazon.com/ko/bedrock/) |
 | Azure | Microsoft Azure 8B/70B 둘다 지원 Azrue Marketplace 검색 | [Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/metagenai.meta-llama-3-8b-chat-offer?tab=overview)|
-| GCP | | |
+| togeter.ai | llama2, codellama, llama3 8b/70b inst 사용가능 |[together.ai](https://www.together.ai/)
 
 
 ## 🤖 인퍼런스 (Inference)
@@ -37,6 +36,12 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 |------------|------|
 | HuggingChat | [link](https://huggingface.co/chat/) |
 | Groq | [link](https://groq.com/) |
+
+## LLaMA Framework(RAG)
+
+| 이름 | 링크 | 
+| Langchain | [link](https://www.langchain.com/) |
+| llamaindex | [link](https://www.llamaindex.ai/) |
 
 
 ## 🛠️ 파인튜닝 (Fine-tuning)
