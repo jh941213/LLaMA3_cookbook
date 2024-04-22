@@ -32,6 +32,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 | Ollama | 다양하게 경량화 되어있는 llama3 모델 추론 가능 | [ollama](https://ollama.com/library/llama3) |
 
 ## 💬 Chat InterFace (Related Information)
+| 이름 | 링크 |
 | HuggingChat | [link](https://huggingface.co/chat/) |
 
 
