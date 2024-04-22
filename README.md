@@ -29,7 +29,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 | HuggingFace | Llama 8B Instruct| [link](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) |
 | HuggingFace | Llama 70B Instruct| [link](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct) |
 | HuggingFace | Llama Guard-2-8B(정책모델) | [link](https://huggingface.co/meta-llama/Meta-Llama-Guard-2-8B) |
-| Ollama | 다양하게 경량화 되어있는 llama3 모델 추론 가능 | [ollama](https://ollama.com/library/llama3) |
+| Ollama | 다양하게 경량화 되어있는 llama3 모델 추론 가능 | [link](https://ollama.com/library/llama3) |
 
 ## 💬 Chat InterFace (Related Information)
 | 이름 | 링크 |
