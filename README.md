@@ -1,4 +1,4 @@
-# LLaMA3_Recipes 🦙
+# LLaMA3_Cookbook 🦙
 
 LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약하는 대규모 언어 모델입니다.🌟 이 저장소📁는 LLaMA3를 활용하여 다양한 프로젝트🚀를 시작하는 데 필요한 정보를 제공하고자 합니다.
 
@@ -15,6 +15,8 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 |------------|------|------|
 | Grok | 고성능 AI Chip을 통해 LLaMA3를 인퍼런스 및 API 호출을 통해 이용할 수 있다 | [Grok](https://groq.com/) |
 | AWS | bedrock 에서 LLaMA를 지원합니다 현재 llama2만 사용가능 |[AWS](https://aws.amazon.com/ko/bedrock/) |
+| Azure | Microsoft Azure 8B/70B 둘다 지원 Azrue Marketplace 검색 | [Azure](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/metagenai.meta-llama-3-8b-chat-offer?tab=overview)|
+| ollama
 
 ## 🤖 인퍼런스 (Inference)
 
@@ -27,6 +29,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 | HuggingFace | Llama 8B Instruct| [link](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) |
 | HuggingFace | Llama 70B Instruct| [link](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct) |
 | HuggingFace | Llama Guard-2-8B(정책모델) | [link](https://huggingface.co/meta-llama/Meta-Llama-Guard-2-8B) |
+| Ollama | 다양하게 경량화 되어있는 llama3 모델 추론 가능 | [ollama](https://ollama.com/library/llama3) |
 
 ## 💬 Chat InterFace (Related Information)
 
