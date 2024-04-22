@@ -20,7 +20,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 | GCP| Google Cloud Vertax AI 에서 사용 가능 | [GCP 🌐](https://console.cloud.google.com/vertex-ai/publishers/meta/model-garden/llama3?_ga=2.164398141.-384541959.1712575317)
 | together.ai  | Llama2, CodeLlama, Llama3 8b/70b 인스턴스 사용 가능                | [together.ai 🌐](https://www.together.ai/) |
 | replicate    | Llama3 API 지원 (Node.js, Python, HTTP)                            | [replicate 🌐](https://replicate.com/blog/run-llama-3-with-an-api) |
-| llama AI    | Llama3 8B/70B 지원, 다른 OpenLLM 지원                         | [llama AI 🌐]([https://replicate.com/blog/run-llama-3-with-an-api](https://www.llama-api.com/) |
+| llama AI    | Llama3 8B/70B 지원, 다른 OpenLLM 지원                         | [llama AI 🌐](https://www.llama-api.com/) |
 | Meta AI(github) | meta AI api 연결 | [MetaAI 🌐](https://github.com/Strvm/meta-ai-api?tab=readme-ov-file)|
 
 
