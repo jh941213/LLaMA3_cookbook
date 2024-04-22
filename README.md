@@ -14,6 +14,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 | 이름 | 설명 | 링크 |
 |------------|------|------|
 | Grok | 고성능 AI Chip을 통해 LLaMA3를 인퍼런스 및 API 호출을 통해 이용할 수 있다 | [Grok](https://groq.com/) |
+| AWS | bedrock 에서 LLaMA를 지원합니다 현재 llama2만 사용가능 |[AWS](https://aws.amazon.com/ko/bedrock/) |
 
 ## 🤖 인퍼런스 (Inference)
 
