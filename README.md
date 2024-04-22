@@ -33,6 +33,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 
 ## 💬 Chat InterFace (Related Information)
 | 이름 | 링크 |
+|------------|------|
 | HuggingChat | [link](https://huggingface.co/chat/) |
 
 
