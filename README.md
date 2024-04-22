@@ -54,7 +54,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 |---------|-----|
 | torchrune| [Link 🌐](https://github.com/pytorch/torchtune)|
 | LLaMAFactory| [Link 🌐](https://github.com/hiyouga/LLaMA-Factory)|
-
+|axolotl| [Link 🌐](https://github.com/OpenAccess-AI-Collective/axolotl)|
 ## 관련정보 📚
 | 정보                               | 링크 |
 |----------------------------------|-----|
