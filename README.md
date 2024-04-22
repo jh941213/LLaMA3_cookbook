@@ -59,6 +59,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 | torchrune| [Link 🌐](https://github.com/pytorch/torchtune)|
 | LLaMAFactory| [Link 🌐](https://github.com/hiyouga/LLaMA-Factory)|
 |axolotl| [Link 🌐](https://github.com/OpenAccess-AI-Collective/axolotl)|
+
 ## 관련정보 📚
 | 정보                               | 링크 |
 |----------------------------------|-----|
@@ -66,6 +67,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 | WEB UI 를 사용해서 llama3 사용 | [Link 🌐](https://dev.to/timesurgelabs/how-to-run-llama-3-locally-with-ollama-and-open-webui-297d) |
 | API with Ollama, LangChain and ChromaDB with Flask API and PDF upload | [Link 🌐](https://www.youtube.com/watch?v=7VAs22LC7WE) |
 | 맥북관련 Llama 튜닝 및 인퍼런스 가이드 | [Link 🌐](https://itnext.io/step-by-step-guide-to-running-latest-llm-model-meta-llama-3-on-apple-silicon-macs-m1-m2-or-m3-b9424ada6840) | 
+| Fine-tune Llama 3 with ORPO | [Link 🌐](https://huggingface.co/blog/mlabonne/orpo-llama-3)|
 
 ## MAC vs 4090 비교 🖥️🆚🖥️
 | 항목          | M3 Max                              | M1 Pro                    | RTX 4090                                    |
