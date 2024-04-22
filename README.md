@@ -15,8 +15,12 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 | Grok         | 고성능 AI Chip을 통해 LLaMA3 인퍼런스 및 API 호출 가능            | [Grok 🌐](https://console.groq.com/playground) |
 | AWS          | Bedrock에서 LLaMA 지원, 현재는 Llama2만 사용 가능                  | [AWS 🌐](https://aws.amazon.com/ko/bedrock/) |
 | Azure        | Microsoft Azure에서 8B/70B 모델 지원, Azure Marketplace에서 검색 가능 | [Azure 🌐](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/metagenai.meta-llama-3-8b-chat-offer?tab=overview)|
+| GCP| Google Cloud Vertax AI 에서 사용 가능 | [GCP 🌐](https://console.cloud.google.com/vertex-ai/publishers/meta/model-garden/llama3?_ga=2.164398141.-384541959.1712575317)
 | together.ai  | Llama2, CodeLlama, Llama3 8b/70b 인스턴스 사용 가능                | [together.ai 🌐](https://www.together.ai/) |
 | replicate    | Llama3 API 지원 (Node.js, Python, HTTP)                            | [replicate 🌐](https://replicate.com/blog/run-llama-3-with-an-api) |
+| llama AI    | Llama3 8B/70B 지원, 다른 OpenLLM 지원                         | [llama AI 🌐]([https://replicate.com/blog/run-llama-3-with-an-api](https://www.llama-api.com/)) |
+| Meta AI(github) | meta AI api 연결 | [MetaAI 🌐](https://github.com/Strvm/meta-ai-api?tab=readme-ov-file)|
+
 
 ## 🤖 인퍼런스 (Inference) 🧠
 
