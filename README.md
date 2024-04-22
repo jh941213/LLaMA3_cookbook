@@ -47,7 +47,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 |----------|-----|-----|
 | Langchain | RAG | [Link 🌐](https://www.langchain.com/) |
 | llamaindex| RAG | [Link 🌐](https://www.llamaindex.ai/) |
-| llama.cpp(github)| RAG | [Link 🌐](https://github.com/ggerganov/llama.cpp) |
+| llama.cpp(github)| convert | [Link 🌐](https://github.com/ggerganov/llama.cpp) |
 
 ## 🛠️ 파인튜닝 (Fine-tuning) 🔧
 | 이름      | 링크 |
