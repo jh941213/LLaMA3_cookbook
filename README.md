@@ -63,7 +63,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 | LLaMAFactory| [Link 🌐](https://github.com/hiyouga/LLaMA-Factory)|
 |axolotl| [Link 🌐](https://github.com/OpenAccess-AI-Collective/axolotl)|
 
-## 관련정보 📚
+## LLAMA3_Cookbook 📚
 | 정보                               | 링크 |
 |----------------------------------|-----|
 | 프롬프트 엔지니어링 가이드           | [Link 🌐](https://www.promptingguide.ai/tools)|
