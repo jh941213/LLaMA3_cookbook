@@ -55,6 +55,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 ## 🛠️ 파인튜닝 (Fine-tuning) 🔧
 | 이름      | 링크 |
 |---------|-----|
+| Meta | [Link 🌐](https://llama.meta.com/docs/how-to-guides/fine-tuning/)
 | torchrune| [Link 🌐](https://github.com/pytorch/torchtune)|
 | LLaMAFactory| [Link 🌐](https://github.com/hiyouga/LLaMA-Factory)|
 |axolotl| [Link 🌐](https://github.com/OpenAccess-AI-Collective/axolotl)|
