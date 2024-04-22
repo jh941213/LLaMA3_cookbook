@@ -72,6 +72,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 | 맥북관련 Llama 튜닝 및 인퍼런스 가이드 | [Link 🌐](https://itnext.io/step-by-step-guide-to-running-latest-llm-model-meta-llama-3-on-apple-silicon-macs-m1-m2-or-m3-b9424ada6840) | 
 | Fine-tune Llama 3 with ORPO | [Link 🌐](https://huggingface.co/blog/mlabonne/orpo-llama-3)|
 | Qlora_aplaca_llama3 finetune | [Link 🌐](https://colab.research.google.com/drive/1mPw6P52cERr93w3CMBiJjocdTnyPiKTX#scrollTo=6bZsfBuZDeCL)
+| fully local RAG agents with LLama3 | [Link 🌐](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_rag_agent_llama3_local.ipynb) |
 
 ## MAC vs 4090 비교 🖥️🆚🖥️
 | 항목          | M3 Max                              | M1 Pro                    | RTX 4090                                    |
