@@ -43,14 +43,14 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 
 | 이름 | 링크 | 
 |------------|------|
-| Langchain | [link](https://www.langchain.com/) |
-| llamaindex | [link](https://www.llamaindex.ai/) |
+|Langchain | [link](https://www.langchain.com/) |
+|llamaindex | [link](https://www.llamaindex.ai/) |
 
 
 ## 🛠️ 파인튜닝 (Fine-tuning)
 | 이름 | 링크 | 
 |------------|------|
-| torchrune | [link](https://github.com/pytorch/torchtune)|
+|torchrune | [link](https://github.com/pytorch/torchtune)|
 
 
 
