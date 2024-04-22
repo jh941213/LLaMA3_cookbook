@@ -60,6 +60,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 ## 관련정보
 | 정보 | 링크 | 
 |------------|------|
+| 프롬프트 엔지니어링 가이드 | [link](https://www.promptingguide.ai/tools)|
 | 맥북관련 llama 튜닝 및 인퍼런스 | [link](https://itnext.io/step-by-step-guide-to-running-latest-llm-model-meta-llama-3-on-apple-silicon-macs-m1-m2-or-m3-b9424ada6840) | 
 
 
