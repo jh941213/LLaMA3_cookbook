@@ -6,7 +6,10 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 - [LLaMA 공식 페이지](https://llama.meta.com/) - 자세한 정보와 문서📄를 확인하세요!
 
 ## ⚡️ Cloud API 
-
+### API 호출 가능
+| 이름 | 설명 | 링크 |
+|------------|------|------|
+| Grok | 고성능 AI Chip을 통해 LLaMA3를 인퍼런스 및 API 호출을 통해 이용할 수 있다 | [Grok](https://groq.com/) |
 
 ## 🤖 인퍼런스 (Inference)
 인퍼런스는 모델을 실제로 적용해 보는 과정입니다. 여기서는 LLaMA3 모델을 다양한 시스템에 통합하는 법에 대한 실제 사례들을 공유합니다.
@@ -14,8 +17,11 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 ### 인퍼런스 플랫폼
 | 플랫폼 이름 | 설명 | 링크 |
 |------------|------|------|
-| Grok | 고성능 AI Chip을 통해 LLaMA3를 인퍼런스 및 API 호출을 통해 이용할 수 있다 | [Grok](https://groq.com/) |
-
+| HuggingFace | Llama 8B | [link](https://meta-llama/Meta-Llama-3-8B) |
+| HuggingFace | Llama 70B | [link](https://huggingface.co/meta-llama/Meta-Llama-3-70B) |
+| HuggingFace | Llama 8B Instruct| [link](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) |
+| HuggingFace | Llama 70B Instruct| [link](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct) |
+| HuggingFace | Llama Guard-2-8B(정책모델) | [link](https://huggingface.co/meta-llama/Meta-Llama-Guard-2-8B) |
 
 ## 📚 관련 정보 (Related Information)
 LLaMA3와 관련된 최신 뉴스🗞️, 연구 결과📈, 그리고 유용한 리소스🔗를 여기에서 공유합니다. 이 정보들은 모델을 더 깊이 이해하고 최신 동향에 맞게 사용할 수 있게 도와줍니다.
