@@ -41,7 +41,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 | Groq            | [Link 🌐](https://groq.com/) |
 | together.ai     | [Link 🌐](https://www.together.ai/) |
 | replicate Llama chat(local) | [Link 🌐](https://github.com/replicate/llama-chat)|
-
+| perplexity.ai | [Link 🌐](https://labs.perplexity.ai/)|
 ## LLaMA Framework  📘
 | 이름       |유형| 링크 
 |----------|-----|-----|
