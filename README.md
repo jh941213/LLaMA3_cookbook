@@ -1,4 +1,4 @@
-# LLaMA3_Cookbook 🦙
+# LLaMA3_Cookbook 🦙
 
 LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약하는 대규모 언어 모델입니다.🌟 이 저장소📁는 LLaMA3를 활용하여 다양한 프로젝트🚀를 시작하는 데 필요한 정보를 제공하고자 합니다.
 
@@ -43,14 +43,14 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 
 | 이름 | 링크 | 
 |------------|------|
-|Langchain | [link](https://www.langchain.com/) |
+|Langchain | [link](https://www.langchain.com/) |
 |llamaindex | [link](https://www.llamaindex.ai/) |
 
 
 ## 🛠️ 파인튜닝 (Fine-tuning)
 | 이름 | 링크 | 
 |------------|------|
-|torchrune | [link](https://github.com/pytorch/torchtune)|
+|torchrune| [link](https://github.com/pytorch/torchtune)|
 
 
 
