@@ -40,7 +40,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 | HuggingFace | Llama 8B KO (made beomi) | [Link 🌐](https://huggingface.co/beomi/Llama-3-Open-Ko-8B-preview)|
 | Ollama       | 다양한 경량화된 Llama3 모델 인퍼런스 가능 | [Link 🌐](https://ollama.com/library/llama3) |
 
-### HuggingFace 모델 🖥️
+### HuggingFace 모델 🐥
 | 이름   | 설명                               | 링크 |
 |--------------|----------------------------|-----|
 |cognitivecomputations/dolphin-2.9-llama3-8b| 무검열 파인튜닝 | [Link 🌐](https://huggingface.co/cognitivecomputations/dolphin-2.9-llama3-8b)|
@@ -72,7 +72,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 
 
 
-## LLAMA3_Cookbook 📚
+## LLAMA3_Cookbook 👩‍🍳
 | 정보                               | 링크 |
 |----------------------------------|-----|
 | 프롬프트 엔지니어링 가이드           | [Link 🌐](https://www.promptingguide.ai/tools)|
