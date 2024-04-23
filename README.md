@@ -54,6 +54,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 | perplexity.ai(경량화모델) | [Link 🌐](https://labs.perplexity.ai/)|
 |openrouter.ai| [Link 🌐](https://openrouter.ai/playground?models=meta-llama/llama-3-70b-instruct)|
 | MetaAI (한국 사용불가)|[Link 🌐](https://www.meta.ai/)|
+| Morphic(멀티모달제공) | [Link 🌐](https://www.morphic.sh/)|
 
 ## LLaMA Framework  📘
 | 이름       |유형| 링크 
