@@ -79,6 +79,12 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 | llama index RAG llama3 | [Link 🌐](https://lightning.ai/lightning-ai/studios/rag-using-llama-3-by-meta-ai) |
 | ollama RAG + UI(Gradio) | [Link 🌐](https://mer.vin/2024/04/llama-3-rag-using-ollama/) |
 
+## LLM skills 📌
+| 정보                               | 링크 |
+|----------------------------------|-----|
+|FSDP+QLORA finetunning | [Link 🌐](https://github.com/AnswerDotAI/fsdp_qlora)|
+
+
 ## MAC vs 4090 비교 🖥️🆚🖥️
 | 항목          | M3 Max                              | M1 Pro                    | RTX 4090                                    |
 |---------------|-------------------------------------|---------------------------|---------------------------------------------|
