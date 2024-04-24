@@ -44,6 +44,7 @@ LLaMA3 (Large Language Model by META AI)는 AI 기술의 최전선에서 활약�
 | 이름   | 설명                               | 링크 |
 |--------------|----------------------------|-----|
 |cognitivecomputations/dolphin-2.9-llama3-8b| 무검열 파인튜닝 | [Link 🌐](https://huggingface.co/cognitivecomputations/dolphin-2.9-llama3-8b)|
+|McGill-NLP/Llama-3-8B-Web| 제로샷 인터넷 링크 선택 능력 |(https://huggingface.co/McGill-NLP/Llama-3-8B-Web)
 ## 💬 Chat Interface (Related Information) 💻
 | 이름              | 링크 |
 |-----------------|-----|
