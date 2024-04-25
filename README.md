@@ -94,6 +94,8 @@ LLaMA3 (Large Language Model by META AI) is a leading-edge large language model 
 | RAG Chatbot LLama3(HF) | [Link 🌐](https://huggingface.co/blog/not-lain/rag-chatbot-using-llama3) |
 | llama index RAG llama3 | [Link 🌐](https://lightning.ai/lightning-ai/studios/rag-using-llama-3-by-meta-ai) |
 | ollama RAG + UI(Gradio) | [Link 🌐](https://mer.vin/2024/04/llama-3-rag-using-ollama/) |
+| LangGraph + Llama3 | [Link 🌐](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_rag_agent_llama3_local.ipynb)|
+
 
 ## LLM Dataset 🗂️
 | Information                       | Link |
