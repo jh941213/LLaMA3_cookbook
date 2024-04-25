@@ -95,6 +95,7 @@ LLaMA3 (Large Language Model by META AI) is a leading-edge large language model 
 | Information                       | Link |
 |----------------------------------|-----|
 |HuggingFaceFW/fineweb | [Link 🌐](https://huggingface.co/datasets/HuggingFaceFW/fineweb)|
+|mlabonne/orpo-dpo-mix-40k| [Link 🌐](https://huggingface.co/datasets/mlabonne/orpo-dpo-mix-40k)|
 
 ## LLM skills 📌
 | Information                       | Link |
