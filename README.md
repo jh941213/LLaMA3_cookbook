@@ -45,6 +45,7 @@ LLaMA3 (Large Language Model by META AI) is a leading-edge large language model 
 |--------------|----------------------------------------|-----|
 |cognitivecomputations/dolphin-2.9-llama3-8b| Uncensored fine-tuning | [Link 🌐](https://huggingface.co/cognitivecomputations/dolphin-2.9-llama3-8b)|
 |McGill-NLP/Llama-3-8B-Web| Zero-shot internet link selection capability |[Link 🌐](https://huggingface.co/McGill-NLP/Llama-3-8B-Web)
+|teddylee777/Llama-3-Open-Ko-8B-Instruct-preview-gguf|Korean quantizatied GGUF model for ollama use|(https://huggingface.co/teddylee777/Llama-3-Open-Ko-8B-Instruct-preview-gguf)
 ## 💬 Chat Interface (Related Information) 💻
 | Name              | Link |
 |-----------------|-----|
@@ -91,7 +92,7 @@ LLaMA3 (Large Language Model by META AI) is a leading-edge large language model 
 ## LLM Dataset 🗂️
 | Information                       | Link |
 |----------------------------------|-----|
-
+|HuggingFaceFW/fineweb | [Link 🌐](https://huggingface.co/datasets/HuggingFaceFW/fineweb)|
 
 ## LLM skills 📌
 | Information                       | Link |
