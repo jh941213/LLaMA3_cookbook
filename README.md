@@ -12,6 +12,7 @@ LLaMA3 (Large Language Model by META AI) is a leading-edge large language model 
 - [Access Request 📬](https://llama.meta.com/llama-downloads/)
 - [Meta Llama Model Card 🎴](https://llama.meta.com/docs/model-cards-and-prompt-formats/meta-llama-3)
 - [Kaggle Meta 🏅](https://www.kaggle.com/organizations/metaresearch/models)
+- [Meta Github 🐈‍⬛](https://github.com/meta-llama/llama3)
 
 ## ⚡️ Cloud API 
 ### API Calls Available 🔌
