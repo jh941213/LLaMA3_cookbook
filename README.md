@@ -24,7 +24,9 @@ LLaMA3 (Large Language Model by META AI) is a leading-edge large language model 
 | together.ai  | Support for Llama2, CodeLlama, Llama3 8b/70b instances                | [together.ai 🌐](https://www.together.ai/) |
 | replicate    | Llama3 API support (Node.js, Python, HTTP)                            | [replicate 🌐](https://replicate.com/blog/run-llama-3-with-an-api) |
 | llama AI     | Support for Llama3 8B/70B, supports other OpenLLMs                    | [llama AI 🌐](https://www.llama-api.com/) |
+| aimlapi | Supports various openLLMs as APIs | [AI/ML API](https://aimlapi.com/build-with-llama-3-api)|
 | Meta AI(github) | Connect to Meta AI api | [MetaAI 🌐](https://github.com/Strvm/meta-ai-api?tab=readme-ov-file)|
+
 
 
 ## 🤖 Inference 🧠
