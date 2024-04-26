@@ -45,9 +45,7 @@ LLaMA3 (Large Language Model by META AI) is a leading-edge large language model 
 | HuggingFace  | Llama 3 70B Instruct - FP8        | [Link 🌐](https://huggingface.co/FriendliAI/Meta-Llama-3-70B-Instruct-fp8) |
 | HuggingFace  | Llama 3 8B - FP8        | [Link 🌐](https://huggingface.co/FriendliAI/Meta-Llama-3-8B-fp8) |
 | HuggingFace  | Llama 3 8B Instruct - FP8      | [Link 🌐](https://huggingface.co/FriendliAI/Meta-Llama-3-8B-Instruct-fp8) |
-
 | HuggingFace | Llama 8B KO (made beomi) | [Link 🌐](https://huggingface.co/beomi/Llama-3-Open-Ko-8B-preview)|
-
 | Ollama       | Support for various lightweight Llama3 models | [Link 🌐](https://ollama.com/library/llama3) |
 
 ### HuggingFace Models 🐥
