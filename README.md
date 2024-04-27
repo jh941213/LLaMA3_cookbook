@@ -41,8 +41,8 @@ LLaMA3 (Large Language Model by META AI) is a leading-edge large language model 
 | HuggingFace  | Llama 8B Instruct model                | [Link 🌐](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) |
 | HuggingFace  | Llama 70B Instruct model               | [Link 🌐](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct) |
 | HuggingFace  | Llama Guard-2-8B(policy model)         | [Link 🌐](https://huggingface.co/meta-llama/Meta-Llama-Guard-2-8B) |
-| HuggingFace  | Llama 3 70B - FP8        | [Link 🌐](https://huggingface.co/FriendliAI/Meta-Llama-3-70B-fp8) |
-| HuggingFace  | Llama 3 70B Instruct - FP8        | [Link 🌐](https://huggingface.co/FriendliAI/Meta-Llama-3-70B-Instruct-fp8) |
+| HuggingFace  | Llama 3 70B - FP8([FriendlyAI](https://friendli.ai/))     | [Link 🌐](https://huggingface.co/FriendliAI/Meta-Llama-3-70B-fp8) |
+| HuggingFace  | Llama 3 70B Instruct - FP8      | [Link 🌐](https://huggingface.co/FriendliAI/Meta-Llama-3-70B-Instruct-fp8) |
 | HuggingFace  | Llama 3 8B - FP8        | [Link 🌐](https://huggingface.co/FriendliAI/Meta-Llama-3-8B-fp8) |
 | HuggingFace  | Llama 3 8B Instruct - FP8      | [Link 🌐](https://huggingface.co/FriendliAI/Meta-Llama-3-8B-Instruct-fp8) |
 | HuggingFace | Llama 8B KO (made beomi) | [Link 🌐](https://huggingface.co/beomi/Llama-3-Open-Ko-8B-preview)|
