@@ -117,7 +117,7 @@ LLaMA3 (Large Language Model by META AI) is a leading-edge large language model 
 |FSDP+QLORA finetunning | [Link 🌐](https://github.com/AnswerDotAI/fsdp_qlora)|
 
 
-## MAC vs 4090 Comparison 🖥️🆚🖥️
+## Mac vs 4090 Comparison 🖥️🆚🖥️
 | Category        | M3 Max                              | M1 Pro                    | RTX 4090                                    |
 |---------------|-------------------------------------|---------------------------|---------------------------------------------|
 | CPU Cores      | 16 cores                            | 10 cores                  | 16 cores AMD                                |
