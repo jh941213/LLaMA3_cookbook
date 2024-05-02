@@ -51,6 +51,7 @@ LLaMA3 (Large Language Model by META AI) is a leading-edge large language model 
 ### HuggingFace Models 🐥
 | Name   | Description                               | Link |
 |--------------|----------------------------------------|-----|
+|gradientai/Llama-3-8B-Instruct-Gradient-1048k | 1M Long Context | [Link 🌐](https://huggingface.co/gradientai/Llama-3-8B-Instruct-Gradient-1048k)
 | Trelis/Meta-Llama-3-70B-Instruct-function-calling | function calling | [Link 🌐](https://huggingface.co/Trelis/Meta-Llama-3-70B-Instruct-function-calling) |
 | Trelis/Meta-Llama-3-8B-Instruct-function-calling | function calling | [Link 🌐](https://huggingface.co/Trelis/Meta-Llama-3-8B-Instruct-function-calling) |
 |cognitivecomputations/dolphin-2.9-llama3-8b| Uncensored fine-tuning | [Link 🌐](https://huggingface.co/cognitivecomputations/dolphin-2.9-llama3-8b)|
