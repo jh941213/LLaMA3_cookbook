@@ -83,7 +83,7 @@ LLaMA3 (Large Language Model by META AI) is a leading-edge large language model 
 | Name      | Link |
 |---------|-----|
 | Meta | [Link 🌐](https://llama.meta.com/docs/how-to-guides/fine-tuning/)
-| torchrune| [Link 🌐](https://github.com/pytorch/torchtune)|
+| torchtune| [Link 🌐](https://github.com/pytorch/torchtune)|
 | LLaMAFactory| [Link 🌐](https://github.com/hiyouga/LLaMA-Factory)|
 |axolotl| [Link 🌐](https://github.com/OpenAccess-AI-Collective/axolotl)|
 
